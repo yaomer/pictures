@@ -1,5 +1,0 @@
-graph a {
-    q -- p
-
-    p, q[style = filled, color=gray, fillcolor = gray]
-}
